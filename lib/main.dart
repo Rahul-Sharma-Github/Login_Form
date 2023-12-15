@@ -30,7 +30,7 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  ///Constroller objecct for controlling Email / Password
+  ///Constroller object for controlling Email / Password
 
   TextEditingController nameController = TextEditingController();
   TextEditingController passwordController = TextEditingController();
